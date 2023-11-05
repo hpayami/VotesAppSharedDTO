@@ -10,6 +10,7 @@ let package = Package(
         .library(
             name: "VotesAppSharedDTO",
             targets: ["VotesAppSharedDTO"]),
+
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.
